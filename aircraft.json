@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Airbus A320",
+    "type": "Commercial Airliner",
+    "manufacturer": "Airbus",
+    "firstFlight": "22 February 1987",
+    "speed": "871 km/h",
+    "range": "6,100 km",
+    "altitude": "39,000 ft",
+    "engines": "CFM56 / V2500",
+    "operators": "IndiGo, Lufthansa, British Airways",
+    "description": "One of the most successful narrow-body passenger aircraft in aviation history."
+  },
+
+  {
+    "name": "Boeing 787 Dreamliner",
+    "type": "Wide-body Airliner",
+    "manufacturer": "Boeing",
+    "firstFlight": "15 December 2009",
+    "speed": "956 km/h",
+    "range": "13,620 km",
+    "altitude": "43,000 ft",
+    "engines": "Rolls-Royce Trent 1000 / GE GEnx",
+    "operators": "Qatar Airways, United Airlines, Japan Airlines",
+    "description": "A long-range aircraft famous for its composite structure and fuel efficiency."
+  }
+]
