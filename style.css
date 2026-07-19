@@ -42,3 +42,29 @@ p {
 .hero p {
     font-size: 25px;
 }
+.hero {
+    height: 100vh;
+    background:
+    linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.75)),
+    url("images/hero.jpg");
+
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 70px;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 25px;
+}
